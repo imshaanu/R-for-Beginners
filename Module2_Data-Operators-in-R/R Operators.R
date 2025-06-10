@@ -7,7 +7,7 @@
 #  Arithmetic Operators are used to accomplish arithmetic operations.
 
 # R Arithmetic Operators Example for integers
-a <- 7.5
+a <- 8.5
 b <- 2
 
 print ( a+b ) #addition
