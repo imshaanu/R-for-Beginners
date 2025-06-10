@@ -25,7 +25,7 @@
 str1 <- c("R","Python","Java","Scala","Julia")
 
 # Numeric Vector 
-num2 <- c(1, 2, 3.4, 5, 5.9)
+num2 <- c(1, 2, 3.4, 5, 6)
 
 # Integer Vector  
 int3 <- (1:10) 
